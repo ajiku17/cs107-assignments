@@ -1,0 +1,3 @@
+test1: file://data/myTest1.txt
+test2: file://data/myTest2.txt
+test3: file://data/myTest3.txt
